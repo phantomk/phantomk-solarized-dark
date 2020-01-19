@@ -1,0 +1,21 @@
+{
+    "name": "phantomk-solarized-dark",
+    "displayName": "phantomk-solarized-dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "phantomk-solarized-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/phantomk-solarized-dark-color-theme.json"
+            }
+        ]
+    }
+}
