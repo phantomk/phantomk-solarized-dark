@@ -210,8 +210,19 @@
 		{
 			"name": "Invalid",
 			"scope": "invalid",
-			"settings": {}
-		},
+			"settings": {
+        "fontStyle": "underline",
+        "foreground": "#676E95"
+      }
+    },
+    {
+      "name": "Unimplemented;未生效的",
+      "scope": "invalid.unimplemented",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#676E95"
+      }
+    },
 		{
 			"name": "diff: header",
 			"scope": [
@@ -372,7 +383,10 @@
 		// "editor.rangeHighlightBackground": "",
 		"editor.selectionHighlightBackground": "#005A6FAA",
 		"editor.wordHighlightBackground": "#004454AA",
-		"editor.wordHighlightStrongBackground": "#005A6FAA",
+    "editor.wordHighlightStrongBackground": "#005A6FAA",
+    
+    "editorUnnecessaryCode.border": "#C3E1E180",
+    "editorUnnecessaryCode.opacity": "#C3E1E180",
 
 		// Editor: Suggest
 		// "editorSuggestWidget.background": "",
