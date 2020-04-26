@@ -356,7 +356,7 @@
 		// "scrollbarSlider.hoverBackground": "",
 
 		// Editor
-		"editor.background": "#002B36",
+		"editor.background": "#003745",
 		// "editor.foreground": "#6688cc",
 		"editorWidget.background": "#00212B",
 		"editorCursor.foreground": "#D30102",
@@ -416,7 +416,7 @@
 		// "diffEditor.removedTextBorder": "",
 
 		// Workbench: Title
-		"titleBar.activeBackground": "#002C39",
+		"titleBar.activeBackground": "#003745",
 		// "titleBar.inactiveBackground": "",
 		// "titleBar.activeForeground": "",
 		// "titleBar.inactiveForeground": "",
@@ -449,7 +449,7 @@
 		// "panelTitle.inactiveForeground": "",
 
 		// Workbench: Side Bar
-		"sideBar.background": "#002B36",
+		"sideBar.background": "#003745",
 		"sideBarTitle.foreground": "#93A1A1",
 		// "sideBarSectionHeader.background": "",
 
